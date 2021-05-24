@@ -1,1 +1,1 @@
-# bitcom.githab.io
+# bitcom.github.io
